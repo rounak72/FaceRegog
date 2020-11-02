@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FaceRegog/static/css/main.02674bae.chunk.css",
+    "main.js": "/FaceRegog/static/js/main.7ef29c93.chunk.js",
+    "main.js.map": "/FaceRegog/static/js/main.7ef29c93.chunk.js.map",
+    "runtime-main.js": "/FaceRegog/static/js/runtime-main.70fefe94.js",
+    "runtime-main.js.map": "/FaceRegog/static/js/runtime-main.70fefe94.js.map",
+    "static/css/2.31461e4f.chunk.css": "/FaceRegog/static/css/2.31461e4f.chunk.css",
+    "static/js/2.bc98cc38.chunk.js": "/FaceRegog/static/js/2.bc98cc38.chunk.js",
+    "static/js/2.bc98cc38.chunk.js.map": "/FaceRegog/static/js/2.bc98cc38.chunk.js.map",
+    "index.html": "/FaceRegog/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/FaceRegog/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.02674bae.chunk.css.map": "/FaceRegog/static/css/main.02674bae.chunk.css.map",
+    "static/js/2.bc98cc38.chunk.js.LICENSE.txt": "/FaceRegog/static/js/2.bc98cc38.chunk.js.LICENSE.txt",
+    "static/media/brain.331e5c37.png": "/FaceRegog/static/media/brain.331e5c37.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70fefe94.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.bc98cc38.chunk.js",
+    "static/css/main.02674bae.chunk.css",
+    "static/js/main.7ef29c93.chunk.js"
+  ]
+}
